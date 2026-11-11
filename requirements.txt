@@ -1,4 +1,3 @@
-List of libraries you need:
 Pillow
 pillow-heif
-Cairosvg
+imagemagic
